@@ -1,8 +1,13 @@
-
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package cinemabooking;
 
-public class Movie {
 
+public class Movie {
+    
     public String title;
     public String titleflim="romantic";
     public void printtitle(){
@@ -22,5 +27,4 @@ public class Movie {
        
         this.title= newtitle;
     }
- 
 }

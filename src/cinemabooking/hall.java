@@ -9,9 +9,11 @@ package cinemabooking;
  *
  * @author Sewa
  */
-public interface type {
-    public void silver(String a);
-     public void gold(String b);
-     public void vip(String v);
-     public void show();
-}
+public class hall {
+     String Locate;
+    int hallnum;
+    public hall(String Locate , int Hall){
+        this.Locate=Locate;
+        this.hallnum=hallnum;
+    }}
+
