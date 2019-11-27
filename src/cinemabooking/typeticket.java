@@ -5,7 +5,10 @@
  */
 package cinemabooking;
 
-
+/**
+ *
+ * @author Sewa
+ */
 public class typeticket implements type {
 
     @Override
@@ -27,5 +30,5 @@ public class typeticket implements type {
     public void show() {
         System.out.println("");
     }
-   
+    
 }

@@ -1,12 +1,12 @@
 
 package cinemabooking;
 
-public class CinemaBooking {
-   
 
-    
+public class CinemaBooking {
+
+   
     public static void main(String[] args) {
-           typeticket m= new typeticket();
+      typeticket m= new typeticket();
             m.silver("seat in row 200");
              m.gold("seat in row 100");
                m.vip("seat in first row");
@@ -61,4 +61,6 @@ public class CinemaBooking {
          
     
     }
-}
+    }
+    
+
